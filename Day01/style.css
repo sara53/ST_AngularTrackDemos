@@ -1,0 +1,84 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: #333;
+}
+#header{
+    background-color: rgb(144, 69, 35);
+}
+div.content{
+    background-color: pink;
+    /* padding-left:50px; */
+    padding:10px; /*top right bottom left*/
+    /* margin-top:-50px; */
+
+}
+p.second{
+    background-color: red;
+    height: 50px;
+}
+p.test.second{
+    width:100%;
+    /* margin:30px; */
+    background-color:blue;
+    /* border:5px solid green; */
+    padding :10px;
+    border:10px solid green
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.footer{
+    /* width: 500px; */
+    color:#fff;
+    /* padding:10px; */
+    background-color: #000;
+}
+.footer p{
+    /* width: 50%; */
+    /* background-color: blue; */
+}
+span{
+    width: 300px;
+    display: none;
+    background-color: red;
+}
+/* div{
+ 
+    background-color: #112056;
+}
+
+ */
+
+/* div p.content{
+    background-color: red;
+}
+
+div p.content{
+    background-color: blue;
+} */
+/* 
+.test{
+    font-size: 30px;
+}
+
+.content{
+    background-color: pink;
+} */
+
+/**
+
+width = width + borderleft+borderright+paddingleft+paddingRight;
+height= height + borderTop+borderBottom+paddingTop+PaddingBottom
+*/
+
+/* Position
+    == relative
+    == absolute
+    == fixed
+*/
