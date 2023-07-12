@@ -1,0 +1,44 @@
+*{
+    font-family: Arial;
+    margin:0;
+    padding:0
+}
+
+p:first-child{
+    background-color: #ece9e9;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button{
+    background-color: rgb(243, 196, 109);
+    width: 170px;
+    padding: 5px;
+    border:none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.myForm{
+    margin-top: 30px;
+}
+input{
+    outline: 0;
+    border:1px solid #ccc;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+
+.change .p1{
+    background-color: green;
+}
+.test{
+    font-size: 20px;
+}
+
+.change .jsClass{
+    background-color: palevioletred;
+    padding: 30px;
+
+}
