@@ -1,0 +1,64 @@
+*{
+    font-family: Arial;
+    margin:0;
+    padding:0
+}
+
+img{
+    width: 300px;
+    display: block;
+    margin-bottom: 30px;
+}
+p:first-child{
+    background-color: #ece9e9;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button{
+    background-color: rgb(243, 196, 109);
+    width: 170px;
+    padding: 5px;
+    border:none;
+    cursor: pointer;
+    border-radius: 5px;
+    display: block;
+    margin: 20px;
+}
+.myForm{
+    margin-top: 30px;
+}
+input{
+    outline: 0;
+    border:1px solid #ccc;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+
+.change .p1{
+    background-color: green;
+}
+.test{
+    font-size: 20px;
+}
+
+.jsClass{
+    background-color: palevioletred;
+    padding: 10px;
+    margin:10px;
+    border-radius: 5px;
+
+}
+div.result{
+    background-color: #ccc;
+    padding: 20px;
+    width: 600px;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+div.result h1{
+    background-color: #aa79d3;
+    padding: 5px
+}
